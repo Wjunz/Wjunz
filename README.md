@@ -1,4 +1,7 @@
 ### Hi there 👋
+### My Contributions
+
+![](https://raw.githubusercontent.com/Wjunz/Wjunz/main/assets/github-contribution-grid-snake.svg)
 
 <!--
 **Wjunz/Wjunz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
